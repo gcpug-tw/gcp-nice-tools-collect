@@ -8,4 +8,4 @@ This is a chrome extension for show your projects in chrome extension, that help
 
 Install Link: https://chrome.google.com/webstore/detail/gdclauncher/bicgkglnnilldakpenngnblekooejnpg
 
-![GDCLauncher](https://goo.gl/photos/tq1AZuKViUoB7eb68)
+![GDCLauncher](./images/GDCLauncher.jpg)
